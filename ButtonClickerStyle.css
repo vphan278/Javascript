@@ -1,0 +1,110 @@
+body{
+    background-color: white;    
+    border: 1px solid black;
+    height: 900px;
+}
+
+.head{
+    display: flex;
+    background-color: grey;
+    justify-content: space-between;
+    width: 1290px;
+}
+
+.head h1{
+    margin-left: 150px;
+    
+}
+.head input{
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+}
+.head button{
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 80px;
+    
+}
+
+/*---------------------------------------------------------------------*/
+
+#main{
+    display: flex;
+}
+.mainbody{
+    display: flex;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 565px;
+}
+.main1{
+    /*background-color: aquamarine;*/
+    /*border: 1px solid black;*/
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+
+}
+.main1 button{
+    background-color: yellow;
+}
+
+.main2{
+    /*background-color: aqua;*/
+    /*border: 1px solid black;*/
+    height: 130px;
+    width: 220px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 70px;
+}
+
+.main3{
+    background-color: white;
+    width: 160px;
+    border: 1px solid black;
+    height: 130px;
+    width: 220px;
+    margin-top: 20px;
+    margin-left: 380px;
+    padding-left: 20px;
+    padding-top: 40px;
+    
+}
+.main3 button{
+    background-color: #28a745;
+}
+
+/*------------------------------------------------------------------------*/
+.bottom{
+    /*background-color: blueviolet;*/
+    display: flex;
+    border: 1px solid black;
+    width: 520px;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.bottom1{
+    background-color: white;
+    width: 120px;
+}
+
+.bottom1 button{
+    background-color: yellow;
+}
+
+.bottom2{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 200px;
+}

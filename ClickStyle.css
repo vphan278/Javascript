@@ -1,0 +1,16 @@
+*{
+    background-color: lightgrey;
+}
+
+.element{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px #999;
+    width: 100px;
+    height: 80px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.element h3, .element p{
+    text-align: center;
+}

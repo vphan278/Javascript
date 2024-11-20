@@ -1,0 +1,228 @@
+body{
+    background-color: lightgrey;
+    border: 1px solid black;
+    height: 1100px;
+}
+/*----------------------------------*/
+#header{
+    background-color: white;
+    height: 80px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}    
+
+
+#header2{
+    background-color: black;
+    height: 60px;
+    display: flex;
+
+}
+/*----------------------------------*/
+.head{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.head2 div{
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-right: 100px;
+    margin-left: 50px;
+    height: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: red;
+    width: 120px;
+    transform: skewx(-25deg);
+}
+.heads2 div{
+    color: white;
+    padding: 30px;
+
+
+}
+
+.header3{
+    display: flex;
+    margin-left: 120px;
+}
+
+.heads3 img{
+    margin-top: 15px;
+    height: 35px;
+    margin-right: 20px;
+}
+
+/*--------------------------------------------------------*/
+#main{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+/*.main1 {
+    margin-right: 40px;
+    background-color: blue;
+    border-radius: 20px;
+    width: 200px;
+    height: 250px;
+    padding-left: 20px;   
+    padding-right: 10px;
+}*/
+.mainbody1{
+    padding-bottom: 10px;
+    margin-right: 40px;
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 250px;
+    padding-left: 20px;   
+    padding-right: 10px;
+}
+
+.middlebody1{
+    background-color: white;
+    width: 240px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.middlebody1 h3{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.middlebody1 button{
+    margin-left: 20px;
+    width: 80px;
+    background-color: rgb(30, 80, 155);
+    color: white;
+    box-shadow: 7px 7px 7px;
+}
+
+.middlebody1 .SignOut{
+    margin-left: 5px;
+    background-color: white;
+    color: black;
+    box-shadow: 7px 7px 7px;
+}
+.middlebody2{
+    background-color: white;
+    width: 240px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.middlebody2 h3{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.middlebody2 button{
+    background-color: yellow;
+    margin-left: 20px;
+    width: 160px;
+    box-shadow: 7px 7px 7px;
+}
+
+
+
+/*------------------------------------------------------------*/
+.main2{
+    background-color: white;
+    width: 720px;
+    height: 850px;
+    padding-left: 80px;
+    border-radius: 20px;
+    /*display: flex;*/
+    
+}
+.mainbody{
+    display: flex;
+    height: 60px;
+}
+
+.main2 li{
+    margin-right: 250px;
+    margin-top: 20px;
+}
+
+.main2 button{
+    background-color: red;
+    border-radius: 20px;
+    margin-right: 20px;
+    height: 20px;
+    width: 20px;
+}
+.main2 span{
+    color: red;
+    font-size: xx-large;
+    margin-right: 40px;
+    vertical-align: sub;
+    padding-top: 20px;
+    border-radius:20px;
+}
+
+.main2 p{
+    margin-top: 20px;
+    margin-right: 230px;
+}
+.mainbody2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.mainbody2 .body2{
+    font-size: xx-large;
+
+}
+/*------------------------------------------------------------*/
+.mainbody3{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+/*------------------------------------------*/
+.mainbody4{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+/*------------------------------------------------------------*/
+.mainbody5{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+/*----------------------------------------------------------------*/
+.mainbody6{
+    display: flex;
+    justify-content: space-between;
+    font-size: xx-large;
+    margin-right: 50px;
+}
+.main2 hr{
+    margin-right: 50px;
+}
+/*---------------------------------------------------------------------*/
+.mainbottom{
+    width: 1000px;
+}
+.mainbottom p{
+    font-size: x-large;
+}
+.mainbottom a{
+    color: #007bff;
+}
+
+/*----------------------------------------------------------------*/
+#count{
+    margin-right: 530px;
+}

@@ -1,0 +1,23 @@
+body{
+    
+}
+
+#fav-animal{
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+}
+#main{
+    background-color: white;
+    padding: 10px;
+}
+
+
+
+#body button{
+    background-color: yellow;
+    padding: 5px;
+    margin-left: 10px;
+}
